@@ -41,3 +41,12 @@ Extensibility
 Because logic and data reside in pure JavaScript, extending functionality is straightforward: shuffle the questions array for random order, store userResponses in localStorage for persistence, or export results as JSON. The absence of a timer makes the quiz suitable for formative assessment scenarios where reflection matters more than speed.
 
 In short, this output embodies a clean, distraction-free quiz workflow: one question per view, explicit submission, and a comprehensive review screen, all delivered through a tiny front-end stack that runs anywhere a browser does—no frameworks, databases, or build tools required.
+
+**OUTPUT
+![Image](https://github.com/user-attachments/assets/69ab950d-715f-4527-95af-48e390490d7f)
+
+![Image](https://github.com/user-attachments/assets/3a08c4aa-cb10-4b2b-b660-c4a2e43d13d0)
+
+/Similarly 10 questions 
+
+![Image](https://github.com/user-attachments/assets/77d3b41e-2b62-44ff-95a3-bf5e12ac42e8)
